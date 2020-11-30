@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Search Form</title>
+</head>
+<body>
+
+    <h1>Welcome to Find Intresting Articles</h1>
+    <form action="{{ url_for('search') }}" method="POST" name="user">
+        {{ form.csrf_token }}
+        {{ form.hidden_tag() }}
+
+        <p>First Name:
+            {{ form.first_name() }}
+        </p>
+
+        <p>Last Name:
+            {{ form.last_name() }}
+        </p>
+
+        <p>Please Select Source:
+            {{ form.source_api() }}
+        </p>
+
+        <p>Please Select Section:
+            {{ form.section_api() }}
+        </p>
+
+        <p>
+            <input type="submit" value="Submit">
+        </p>
+    </form>
+
+</body>
+</html>

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+    <h1>Here are your Articles</h1>
+    {% for i in result %}
+        <p>Articles : {{ i[0] }}, URL :
+           {{ i[1] }}</p>
+    {% endfor %}
+
+    <a href="{{ url_for('search') }}">Get a New one</a>
+
+</body>
+</html>

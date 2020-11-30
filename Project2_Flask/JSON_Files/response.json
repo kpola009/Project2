@@ -1,0 +1,470 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company.  All Rights Reserved.",
+  "num_results": 500,
+  "results": [
+    {
+      "slug_name": "21sp-shows-inyt",
+      "section": "Arts",
+      "subsection": "",
+      "title": "In the Return of Art Fairs, Smaller Is Better",
+      "abstract": "At a time when many huge events have been canceled, 1-54, Art Paris and Viennacontemporary gladly threw open their doors.",
+      "url": "https://www.nytimes.com/2020/10/20/arts/fairs-small.html",
+      "byline": "BY FARAH NAYERI",
+      "thumbnail_standard": "https://static01.nyt.com/images/2020/10/21/multimedia/21sp-shows-inyt4/21sp-shows-inyt4-thumbStandard.jpg",
+      "item_type": "Article",
+      "source": "International New York Times",
+      "updated_date": "2020-11-05T20:10:45-05:00",
+      "created_date": "2020-10-20T05:00:11-04:00",
+      "published_date": "2020-10-20T05:00:11-04:00",
+      "first_published_date": "2020-10-20T05:00:11-04:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "Quarantine (Life and Culture)",
+        "Art",
+        "Coronavirus (2019-nCoV)",
+        "Coronavirus Reopenings"
+      ],
+      "org_facet": null,
+      "per_facet": null,
+      "geo_facet": [
+        "Paris (France)",
+        "London (England)",
+        "Vienna (Austria)"
+      ],
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/21/multimedia/21sp-shows-inyt4/21sp-shows-inyt4-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Perrotin gallery&rsquo;s exhibit at Art Paris last month, where it was a first-time participant.",
+          "copyright": "Mohammed Badra/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/21/multimedia/21sp-shows-inyt4/merlin_176777004_369dcbf4-983c-4fe5-b42b-f4d78266ccb1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Perrotin gallery&rsquo;s exhibit at Art Paris last month, where it was a first-time participant.",
+          "copyright": "Mohammed Badra/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/21/multimedia/21sp-shows-inyt4/merlin_176777004_369dcbf4-983c-4fe5-b42b-f4d78266ccb1-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Perrotin gallery&rsquo;s exhibit at Art Paris last month, where it was a first-time participant.",
+          "copyright": "Mohammed Badra/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/21/multimedia/21sp-shows-inyt4/merlin_176777004_369dcbf4-983c-4fe5-b42b-f4d78266ccb1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Perrotin gallery&rsquo;s exhibit at Art Paris last month, where it was a first-time participant.",
+          "copyright": "Mohammed Badra/EPA, via Shutterstock"
+        }
+      ]
+    },
+    {
+      "slug_name": "21sp-duchamp-inyt",
+      "section": "Arts",
+      "subsection": "",
+      "title": "A 20-Year Legacy of Support for French Artists",
+      "abstract": "A show at the Pompidou Center highlights the work of Kapwani Kiwanga, winner of the Marcel Duchamp Prize, and those who won before her.",
+      "url": "https://www.nytimes.com/2020/10/19/arts/kapwani-kiwanga-marcel-duchamp-prize.html",
+      "byline": "BY NAZANIN LANKARANI",
+      "thumbnail_standard": "https://static01.nyt.com/images/2020/10/21/multimedia/21sp-duchamp-inyt2/21sp-duchamp-inyt2-thumbStandard.jpg",
+      "item_type": "Article",
+      "source": "International New York Times",
+      "updated_date": "2020-10-19T16:19:43-04:00",
+      "created_date": "2020-10-19T16:19:43-04:00",
+      "published_date": "2020-10-19T16:19:43-04:00",
+      "first_published_date": "2020-10-19T16:19:43-04:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "Art",
+        "Awards, Decorations and Honors",
+        "International Contemporary Art Fair (FIAC)"
+      ],
+      "org_facet": [
+        "Pompidou Center"
+      ],
+      "per_facet": [
+        "Kiwanga, Kapwani"
+      ],
+      "geo_facet": [
+        "Paris (France)"
+      ],
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/21/multimedia/21sp-duchamp-inyt2/21sp-duchamp-inyt2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kapwani Kiwanga&rsquo;s &ldquo;Flowers for Africa&rdquo; is a series of installations that consist of elaborately arranged fresh flowers.",
+          "copyright": "Dmitry Kostyukov for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/21/multimedia/21sp-duchamp-inyt2/21sp-duchamp-inyt2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kapwani Kiwanga&rsquo;s &ldquo;Flowers for Africa&rdquo; is a series of installations that consist of elaborately arranged fresh flowers.",
+          "copyright": "Dmitry Kostyukov for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/21/multimedia/21sp-duchamp-inyt2/21sp-duchamp-inyt2-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kapwani Kiwanga&rsquo;s &ldquo;Flowers for Africa&rdquo; is a series of installations that consist of elaborately arranged fresh flowers.",
+          "copyright": "Dmitry Kostyukov for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/21/multimedia/21sp-duchamp-inyt2/21sp-duchamp-inyt2-articleInline.jpg",
+          "format": "Normal",
+          "height": 113,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kapwani Kiwanga&rsquo;s &ldquo;Flowers for Africa&rdquo; is a series of installations that consist of elaborately arranged fresh flowers.",
+          "copyright": "Dmitry Kostyukov for The New York Times"
+        }
+      ]
+    },
+    {
+      "slug_name": "06sp-friezeweek-inyt",
+      "section": "Arts",
+      "subsection": "",
+      "title": "London\u2019s Frieze Week Is Still On, Online and Off",
+      "abstract": "Though crowds won\u2019t fill Regent\u2019s Park for in-person fairs, some galleries remain determined \u201cto show the best of the best during these times.\u201d",
+      "url": "https://www.nytimes.com/2020/10/05/arts/frieze-london-art.html",
+      "byline": "BY FARAH NAYERI",
+      "thumbnail_standard": "https://static01.nyt.com/images/2020/10/06/multimedia/06sp-friezeweek-inyt1/06sp-friezeweek-inyt1-thumbStandard.jpg",
+      "item_type": "Article",
+      "source": "International New York Times",
+      "updated_date": "2020-10-05T05:00:23-04:00",
+      "created_date": "2020-10-05T05:00:24-04:00",
+      "published_date": "2020-10-05T05:00:24-04:00",
+      "first_published_date": "2020-10-05T05:00:24-04:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "Frieze Art Fair",
+        "Art",
+        "Quarantine (Life and Culture)"
+      ],
+      "org_facet": null,
+      "per_facet": null,
+      "geo_facet": [
+        "London (England)"
+      ],
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/06/multimedia/06sp-friezeweek-inyt1/06sp-friezeweek-inyt1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Angela Choon, the London director of David Zwirner gallery, at the Josh Smith exhibition \u201cSpectre,\u201d a selection of Brooklyn streetscapes he painted during the lockdown.",
+          "copyright": "Andrew Testa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/06/multimedia/06sp-friezeweek-inyt1/06sp-friezeweek-inyt1-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Angela Choon, the London director of David Zwirner gallery, at the Josh Smith exhibition \u201cSpectre,\u201d a selection of Brooklyn streetscapes he painted during the lockdown.",
+          "copyright": "Andrew Testa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/06/multimedia/06sp-friezeweek-inyt1/06sp-friezeweek-inyt1-mediumThreeByTwo440-v2.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Angela Choon, the London director of David Zwirner gallery, at the Josh Smith exhibition \u201cSpectre,\u201d a selection of Brooklyn streetscapes he painted during the lockdown.",
+          "copyright": "Andrew Testa for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/06/multimedia/06sp-friezeweek-inyt1/merlin_177783783_683428f0-4d4e-429d-a956-e76c4020565b-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Angela Choon, the London director of David Zwirner gallery, at the Josh Smith exhibition \u201cSpectre,\u201d a selection of Brooklyn streetscapes he painted during the lockdown.",
+          "copyright": "Andrew Testa for The New York Times"
+        }
+      ]
+    },
+    {
+      "slug_name": "06sp-londonshows-inyt",
+      "section": "Arts",
+      "subsection": "",
+      "title": "Art to See in London This Fall",
+      "abstract": "During Frieze Week and beyond, museums and galleries are ready to take viewers on a journey through centuries and across genres.",
+      "url": "https://www.nytimes.com/2020/10/05/arts/london-art-shows.html",
+      "byline": "BY FARAH NAYERI",
+      "thumbnail_standard": "https://static01.nyt.com/images/2020/10/06/multimedia/06sp-londonshows-inyt4/06sp-londonshows-inyt4-thumbStandard.jpg",
+      "item_type": "Article",
+      "source": "International New York Times",
+      "updated_date": "2020-10-05T05:00:20-04:00",
+      "created_date": "2020-10-05T05:00:20-04:00",
+      "published_date": "2020-10-05T05:00:20-04:00",
+      "first_published_date": "2020-10-05T05:00:20-04:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "Art"
+      ],
+      "org_facet": [
+        "Gagosian Gallery",
+        "National Gallery (London)",
+        "Royal Academy of Arts",
+        "Tate Modern",
+        "White Cube Gallery",
+        "Dane, Thomas, Gallery",
+        "Tornabuoni Art Gallery"
+      ],
+      "per_facet": [
+        "Gentileschi, Artemisia",
+        "Nauman, Bruce",
+        "Schutz, Dana",
+        "Weatherford, Mary (1963- )",
+        "Gates, Theaster"
+      ],
+      "geo_facet": [
+        "London (England)"
+      ],
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/06/multimedia/06sp-londonshows-inyt4/06sp-londonshows-inyt4-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cTu Sei,\u201d a modern work by Alberto Biasi, is part of a show about kinetic and Op Art at the Tornabuoni Art gallery.",
+          "copyright": "Alberto Biasi, 2020"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/06/multimedia/06sp-londonshows-inyt4/06sp-londonshows-inyt4-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cTu Sei,\u201d a modern work by Alberto Biasi, is part of a show about kinetic and Op Art at the Tornabuoni Art gallery.",
+          "copyright": "Alberto Biasi, 2020"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/06/multimedia/06sp-londonshows-inyt4/06sp-londonshows-inyt4-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cTu Sei,\u201d a modern work by Alberto Biasi, is part of a show about kinetic and Op Art at the Tornabuoni Art gallery.",
+          "copyright": "Alberto Biasi, 2020"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/06/multimedia/06sp-londonshows-inyt4/merlin_177743040_ed14175f-eab3-447a-b8ed-e381ed7778a7-articleInline.jpg",
+          "format": "Normal",
+          "height": 143,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cTu Sei,\u201d a modern work by Alberto Biasi, is part of a show about kinetic and Op Art at the Tornabuoni Art gallery.",
+          "copyright": "Alberto Biasi, 2020"
+        }
+      ]
+    },
+    {
+      "slug_name": "15sp-lust-inyt",
+      "section": "Arts",
+      "subsection": "",
+      "title": "A \u2018Rare Bird\u2019 Among Art Collectors Expands His Reach",
+      "abstract": "Herbert Lust, a friend to artists for more than a half-century, makes a major gift from his expansive holdings to the Hirshhorn Museum.",
+      "url": "https://www.nytimes.com/2020/09/14/arts/herbert-lust-collection.html",
+      "byline": "BY HILARIE M. SHEETS",
+      "thumbnail_standard": "https://static01.nyt.com/images/2020/09/15/multimedia/15SP-LUST-INYT1/15SP-LUST-INYT1-thumbStandard.jpg",
+      "item_type": "Article",
+      "source": "International New York Times",
+      "updated_date": "2020-09-14T14:59:18-04:00",
+      "created_date": "2020-09-14T14:59:18-04:00",
+      "published_date": "2020-09-14T14:59:18-04:00",
+      "first_published_date": "2020-09-14T14:59:18-04:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "Art",
+        "Collectors and Collections",
+        "Photography"
+      ],
+      "org_facet": [
+        "Hirshhorn Museum and Sculpture Garden"
+      ],
+      "per_facet": [
+        "Giacometti, Alberto",
+        "Lust, Herbert"
+      ],
+      "geo_facet": null,
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/15/multimedia/15SP-LUST-INYT1/15SP-LUST-INYT1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Herbert Lust has a large art collection at his home in Greenwich, Conn., including the sculpture behind him by Enrico Baj, and, in the foreground, an early Calder.",
+          "copyright": "Tony Cenicola/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/15/multimedia/15SP-LUST-INYT1/15SP-LUST-INYT1-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Herbert Lust has a large art collection at his home in Greenwich, Conn., including the sculpture behind him by Enrico Baj, and, in the foreground, an early Calder.",
+          "copyright": "Tony Cenicola/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/15/multimedia/15SP-LUST-INYT1/15SP-LUST-INYT1-mediumThreeByTwo440-v2.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Herbert Lust has a large art collection at his home in Greenwich, Conn., including the sculpture behind him by Enrico Baj, and, in the foreground, an early Calder.",
+          "copyright": "Tony Cenicola/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/15/multimedia/15SP-LUST-INYT1/15SP-LUST-INYT1-articleInline.jpg",
+          "format": "Normal",
+          "height": 136,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Herbert Lust has a large art collection at his home in Greenwich, Conn., including the sculpture behind him by Enrico Baj, and, in the foreground, an early Calder.",
+          "copyright": "Tony Cenicola/The New York Times"
+        }
+      ]
+    },
+    {
+      "slug_name": "15sp-big-inyt",
+      "section": "Arts",
+      "subsection": "",
+      "title": "Auction Prices That Take Your Breath Away",
+      "abstract": "Prices for works by some relatively new artists have skyrocketed, seemingly overnight.",
+      "url": "https://www.nytimes.com/2020/09/14/arts/auctions-high-prices.html",
+      "byline": "BY TED LOOS",
+      "thumbnail_standard": "https://static01.nyt.com/images/2020/09/15/multimedia/15sp-big-inyt1/15sp-big-inyt1-thumbStandard.jpg",
+      "item_type": "Article",
+      "source": "International New York Times",
+      "updated_date": "2020-09-14T13:19:48-04:00",
+      "created_date": "2020-09-14T13:19:48-04:00",
+      "published_date": "2020-09-14T13:19:48-04:00",
+      "first_published_date": "2020-09-14T13:19:48-04:00",
+      "material_type_facet": "News",
+      "kicker": "",
+      "subheadline": "",
+      "des_facet": [
+        "Art",
+        "Auctions"
+      ],
+      "org_facet": [
+        "Christie's",
+        "Hauser & Wirth",
+        "Phillips Auctioneers LLC",
+        "Sotheby's"
+      ],
+      "per_facet": [
+        "Davis, Noah (1983-2015)",
+        "Party, Nicolas",
+        "Armitage, Michael (1984- )",
+        "Wong, Matthew (1984-2019)",
+        "Curtiss, Julie (1982- )",
+        "Boafo, Amoako (1984- )"
+      ],
+      "geo_facet": null,
+      "related_urls": null,
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/15/multimedia/15sp-big-inyt1/15sp-big-inyt1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;The Realm of Appearances&rdquo; (2018) by Matthew Wong sold for $1.8 million at Sotheby&rsquo;s New York this year.",
+          "copyright": "Sothebys"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/15/multimedia/15sp-big-inyt1/15sp-big-inyt1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;The Realm of Appearances&rdquo; (2018) by Matthew Wong sold for $1.8 million at Sotheby&rsquo;s New York this year.",
+          "copyright": "Sothebys"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/15/multimedia/15sp-big-inyt1/15sp-big-inyt1-mediumThreeByTwo440.jpg",
+          "format": "mediumThreeByTwo440",
+          "height": 293,
+          "width": 440,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;The Realm of Appearances&rdquo; (2018) by Matthew Wong sold for $1.8 million at Sotheby&rsquo;s New York this year.",
+          "copyright": "Sothebys"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/15/multimedia/15sp-big-inyt1/merlin_176726139_810e82bf-750a-4818-b79f-0ea82caf66cc-articleInline.jpg",
+          "format": "Normal",
+          "height": 155,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;The Realm of Appearances&rdquo; (2018) by Matthew Wong sold for $1.8 million at Sotheby&rsquo;s New York this year.",
+          "copyright": "Sothebys"
+        }
+      ]
+    }
+  ]
+}
